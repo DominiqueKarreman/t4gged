@@ -5,6 +5,10 @@
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>remote-notification</string>
+		<string>location</string>
+		<string>fetch</string>
 	</array>
+	<key>locatiop</key>
+	<string></string>
 </dict>
 </plist>
